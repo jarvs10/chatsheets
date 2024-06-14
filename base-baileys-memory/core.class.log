@@ -1,0 +1,302 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573206644863@s.whatsapp.net',
+    fromMe: false,
+    id: '14321CD500A8D1E9D508A1DEEBDCF3C7',
+    participant: undefined
+  },
+  messageTimestamp: 1718381152,
+  pushName: 'J@iber',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573206644863'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c38e753e-1b1f-4026-b64c-a0ef75b46e81',
+  keyword: 'key_a044e231-36a1-4e5e-94bc-3bf9807d5612',
+  answer: '🙌 Hola bienvenido a tus gastos',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'aa5700e41cdc658d7241c5f14afdb46c'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d1033bd6-851b-421a-a5e8-5c7780ebfdb2',
+  keyword: 'ans_c38e753e-1b1f-4026-b64c-a0ef75b46e81',
+  answer: 'Nombre del gasto',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86f8161eb7da9599bc174cd752ed1f73'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573206644863@s.whatsapp.net',
+    fromMe: false,
+    id: '00FBA39C9A709895AAC47FF793C980EA',
+    participant: undefined
+  },
+  messageTimestamp: 1718381155,
+  pushName: 'J@iber',
+  broadcast: false,
+  message: Message {
+    conversation: 'Servicios hogar',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Servicios hogar',
+  from: '573206644863'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d0fbf9d4-360f-407b-8bbe-3a52a4d4ae9a',
+  keyword: 'ans_d1033bd6-851b-421a-a5e8-5c7780ebfdb2',
+  answer: 'Monto del gasto',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'd51571e20e02272f07e145fc41c4241c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573206644863@s.whatsapp.net',
+    fromMe: false,
+    id: '612CF2EBE2534A309646FA46C7082E3C',
+    participant: undefined
+  },
+  messageTimestamp: 1718381158,
+  pushName: 'J@iber',
+  broadcast: false,
+  message: Message {
+    conversation: '300000',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '300000',
+  from: '573206644863'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_74b2a647-ff36-4cf9-b7a3-2ee9e90176be',
+  keyword: 'ans_d0fbf9d4-360f-407b-8bbe-3a52a4d4ae9a',
+  answer: 'Categoria del gasto',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '272f4430dc05a05423b37370293da60e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573206644863@s.whatsapp.net',
+    fromMe: false,
+    id: '5BFAAA5D545862FA7DE15308282B8476',
+    participant: undefined
+  },
+  messageTimestamp: 1718381160,
+  pushName: 'J@iber',
+  broadcast: false,
+  message: Message {
+    conversation: 'Casa',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Casa',
+  from: '573206644863'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f66dba19-a47a-462a-8f8d-ac787a7b1a6e',
+  keyword: 'ans_74b2a647-ff36-4cf9-b7a3-2ee9e90176be',
+  answer: 'Tus datos fueron registrados correctamente',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '823e6f00e4c85db05bc5c223d5c90880'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573206644863@s.whatsapp.net',
+    fromMe: false,
+    id: 'CB7F1CEC98FB934241A0A6466D4B062C',
+    participant: undefined
+  },
+  messageTimestamp: 1718381185,
+  pushName: 'J@iber',
+  broadcast: false,
+  message: Message {
+    conversation: 'Historial',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Historial',
+  from: '573206644863'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ca8c080d-ea03-490a-891c-6b58864c700b',
+  keyword: 'key_b85da784-18c9-4d53-a9cf-14f2778d6af1',
+  answer: 'Este es el flujo historial',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'fc15ec175a05cf9f22d813f36cf1f698'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573206644863@s.whatsapp.net',
+    fromMe: false,
+    id: 'E8F87E0FF85530C9BE6BED320E91D075',
+    participant: undefined
+  },
+  messageTimestamp: 1718381196,
+  pushName: 'J@iber',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ver mi historial',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ver mi historial',
+  from: '573206644863'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c38e753e-1b1f-4026-b64c-a0ef75b46e81',
+  keyword: 'key_a044e231-36a1-4e5e-94bc-3bf9807d5612',
+  answer: '🙌 Hola bienvenido a tus gastos',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'aa5700e41cdc658d7241c5f14afdb46c'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d1033bd6-851b-421a-a5e8-5c7780ebfdb2',
+  keyword: 'ans_c38e753e-1b1f-4026-b64c-a0ef75b46e81',
+  answer: 'Nombre del gasto',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86f8161eb7da9599bc174cd752ed1f73'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573206644863@s.whatsapp.net',
+    fromMe: false,
+    id: 'A0BF97C6CD69E903EB70F75E05EBD45B',
+    participant: undefined
+  },
+  messageTimestamp: 1718381202,
+  pushName: 'J@iber',
+  broadcast: false,
+  message: Message {
+    conversation: 'Historial',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Historial',
+  from: '573206644863'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d0fbf9d4-360f-407b-8bbe-3a52a4d4ae9a',
+  keyword: 'ans_d1033bd6-851b-421a-a5e8-5c7780ebfdb2',
+  answer: 'Monto del gasto',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'd51571e20e02272f07e145fc41c4241c'
+}
