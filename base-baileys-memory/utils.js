@@ -5,8 +5,6 @@ const auth = new google.auth.GoogleAuth({
   scopes: ["https://www.googleapis.com/auth/spreadsheets"], // Scope for Google Sheets API.
 });
 
-const spreadsheetId = "1grRMbF14y3o8BfPT3929booTx6OdCeacaGJpSGw2jb8";
-
 async function appendToSheet(values) {
   const sheets = google.sheets({ version: "v4", auth }); // Create a Sheets API client instance
   const range = 'Hoja 1!A1'; // The range in the sheet to start appending
